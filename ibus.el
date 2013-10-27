@@ -1,5 +1,3 @@
-;;; -*- Mode: Emacs-Lisp ; Coding: utf-8 -*-
-
 ;;; ibus.el -- IBus client for GNU Emacs
 
 ;; Copyright (C) 2010-2011 S. Irie
